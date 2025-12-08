@@ -1,10 +1,10 @@
 [![Github All Releases](https://img.shields.io/github/downloads/etianl/Trouser-Streak/total.svg)]()
 
 <div align="center">
-  <h1><strong>Trouser-Streak</strong></h1>
-  <p><strong>Official Griefing Utilities of <a href="https://www.youtube.com/@mountainsoflavainc.6913">Mountains of Lava Inc.</a></strong></p>
+  <h1><strong>Trouser-Streak-modded</strong></h1>
+  <p><strong>Official Griefing Utilities of <a href="https://www.youtube.com/@mountainsoflavainc.6913">Mountains of Lava Inc. and THE_AMCS</a></strong></p>
   <p><strong>Trouser-Streak</strong> is a compilation of modules for <strong><a href="https://meteorclient.com/">Meteor Client</a></strong>.</p> 
-  <p><strong><em>Updated to the latest version and optimized for maximum grief!</em></strong></p>
+  <p><strong><em>Updated to the latest version and optimized for maximum grief and exploits</em></strong></p>
     <p><strong>Customer Service Discord: <a href="https://www.breakblocks.com/discord">https://www.breakblocks.com/discord</a></strong></p>
   <img src="src/main/resources/assets/icon/icon.png" alt="Trouser-Streak Logo" width="28%"/>
 </div>
@@ -25,6 +25,10 @@ In no particular order
 - [InstantKillBow](https://github.com/Saturn5Vfive/InstantKillBow)
 - [LecternCrash](https://github.com/Coderx-Gamer/lectern-crash)
 - [etianl](https://github.com/etianl/)
+
+
+
+
 
  <div align="left">
     <p>This modpack would not have been possible without you
