@@ -110,6 +110,7 @@ In no particular order
 - **CrashCommand:** Crashes other players out using a nasty particle effect. Requires OP status. Credits to [aaaasdfghjkllll](https://github.com/aaaasdfghjkllll)
 - **ExplosionAura:** Spawns creepers at your position as you move that explode instantly. Like a bigger, more laggy Nuker module for creative mode. The use of the module Velocity is recommended to avoid being thrown around. (Credits to etianl :D)
 - **FlightAntikick:** Moves you down on a tick-based timer. Added in to substitute the lack of a "Normal" mode antikick for velocity flight in MeteorClient (not a great antikick it's just something). Bind it to the same key as Flight. (Credits to etianl :D)
+- **ForceOPCommandEgg** Summon an egg with command block and code inside it for OP you! (the operator needs to spawn the egg)
 - **ForceOPBook:** Create malicious books in creative mode that can execute commands when clicked. Requires creative mode for you to make them, and requires you to give it to an operator and have them click it. (This is an old method, but credits to etianl for writing this implementation.)
 - **ForceOPSign:** Create malicious signs in creative mode that can execute commands when clicked. Requires creative mode for you to make them, and requires you to give it to an operator and have them place and click it while they are also in creative mode. The signs placed appear blank and commands executed may not appear in the server chat response for commands. There is a preset option for destroying the server in one click. Credits to CrushedPixel for their first implementation of a ForceOP sign module https://www.youtube.com/watch?v=KofDNaPZWfg, and to etianl for writing this implementation.
 - **GarbageCleanerCommand:** Accessable by typing ".cleanram". It cleans the RAM of useless junk and may be very handy for improving performance after chunk tracing for a while and can be used to clear other lag. (credits to [ogmur](https://www.youtube.com/@Ogmur) for writing this)
@@ -130,6 +131,9 @@ In no particular order
 - **MultiverseAnnihilator:** With the press of a single button you can quickly delete every world listed on a server that has the Multiverse plugin installed. OP status is required. (credits to [ogmur](https://www.youtube.com/@Ogmur) for writing this)
 - **NbtEditor:** Requires Creative mode. Generates custom entities in the form of a custom spawn egg, generate items with custom enchantments, and potions with custom effects all based on the settings you configure. It can also copy the Nbt data from one item to another.  (Credits to etianl :D)
 - **NewerNewChunks:** NewChunks module with new newchunk estimation exploits, and the ability to save chunk data for later! Comes with several new homebrewed newchunks methods made by yours truly. (Credits to Meteor Rejects, and BleachHack from where it was ported, and etianl for updating :D.)
+
+
+
 
 -------------------------------------------------------------------------------------
 ***NewerNewChunks Notes:***
