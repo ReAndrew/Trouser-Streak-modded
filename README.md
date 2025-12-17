@@ -5,7 +5,7 @@
   <p><strong>Modified version of TrowserStreak, now with more features!</a></strong></p>
   <p><strong>Modified by the_amcs</a></strong></p>
   <p><strong>For using it, you need a <strong><a href="https://meteorclient.com/">Meteor Client</a></strong>.</p> 
-  <p><strong><em>Updated to the latest version and optimized for maximum grief and exploits</em></strong></p>
+  <p><strong><em>Updated to the latest version and optimized for maximum grief, exploits, and anarchy</em></strong></p>
 
   <img src="src/main/resources/assets/icon/icon.png" alt="Trouser-Streak-modded Logo" width="28%"/>
 </div>
