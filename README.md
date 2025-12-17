@@ -1,13 +1,13 @@
 
 <div align="center">
-  <p>Maked: 0.07%</p>
+  <p>Maded: 0.07%</p>
   <h1><strong>Trouser-Streak-modded</strong></h1>
   <p><strong>Modified version of TrowserStreak, now with more features!</a></strong></p>
   <p><strong>Modified by the_amcs</a></strong></p>
   <p><strong>For using it, you need a <strong><a href="https://meteorclient.com/">Meteor Client</a></strong>.</p> 
   <p><strong><em>Updated to the latest version and optimized for maximum grief, exploits, and anarchy</em></strong></p>
 
-  <img src="src/main/resources/assets/icon.png" alt="Trouser-Streak-modded Logo" width="28%"/>
+  <img src="src/main/resources/icon.png" alt="Trouser-Streak-modded Logo" width="28%"/>
 </div>
 
 <div align="center">
