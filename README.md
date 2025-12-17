@@ -7,7 +7,7 @@
   <p><strong>For using it, you need a <strong><a href="https://meteorclient.com/">Meteor Client</a></strong>.</p> 
   <p><strong><em>Updated to the latest version and optimized for maximum grief, exploits, and anarchy</em></strong></p>
 
-  <img src="src/main/resources/assets/logo.png" alt="Trouser-Streak-modded Logo" width="28%"/>
+  <img src="src/main/resources/assets/icon.png" alt="Trouser-Streak-modded Logo" width="28%"/>
 </div>
 
 <div align="center">
